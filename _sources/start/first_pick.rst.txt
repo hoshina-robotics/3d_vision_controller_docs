@@ -3,5 +3,3 @@ First Pick
 ###########################
 
 | Fist Pick
-
-`Sphinxを知りたい方はこちらをクリック <http://sphinx-users.jp>`_
