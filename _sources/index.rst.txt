@@ -8,15 +8,19 @@ Welcome to 3d_vision_controller_docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: OverView
+   :caption: StartUp
    :numbered:
 
-   /test/test1
-   /test/test2
+   /start/overview.rst
+   /start/first_pick.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: test3だけ
+   :caption: Documens
    :numbered:
 
-   /test/test3
+   /documentation/setup.rst
+   /documentation/web_interface.rst
+   /documentation/calibration.rst
+   /documentation/detection.rst
+   /documentation/settings.rst
